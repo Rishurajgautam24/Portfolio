@@ -6,4 +6,5 @@ typing_extensions==4.7.1
 Pillow==10.0.0
 python-dotenv==1.0.0
 whitenoise
+collectstatic
 
