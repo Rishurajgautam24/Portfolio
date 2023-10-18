@@ -4,6 +4,6 @@ psycopg2-binary
 sqlparse
 typing_extensions
 whitenoise
-pillow
-dotenv
+Pillow==10.0.0
+python-dotenv==1.0.0
 
